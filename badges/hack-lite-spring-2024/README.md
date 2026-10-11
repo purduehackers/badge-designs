@@ -1,17 +1,13 @@
-# Hack Lite — 2024
-
-CMS event: `26` · slug `hack-lite-spring-2024`.
+# Hack Lite 2024
 
 ## Badge
 
-[Download SVG](badge.svg)
+![Badge](badge-preview.png)
 
-![badge](badge-preview.png)
+[Download](badge.svg?raw=true)
 
 ## Stamp
 
-[Download SVG](stamp.svg)
+![Stamp](stamp-preview.png)
 
-![stamp](stamp-preview.png)
-
-The gray preview background is for visibility and is not part of the SVG. Historical artwork may require corrections before manufacturing. A null reviewer means final approval could not be established.
+[Download](stamp.svg?raw=true)

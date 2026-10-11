@@ -1,19 +1,13 @@
-# Hack Lite — 2026
-
-CMS event: `174` · slug `hack-lite-spring-2026`.
-
-The stamp SVG contains an embedded raster image. Its mirrored orientation is preserved from the historical artwork.
+# Hack Lite 2026
 
 ## Badge
 
-[Download SVG](badge.svg)
+![Badge](badge-preview.png)
 
-![badge](badge-preview.png)
+[Download](badge.svg?raw=true)
 
 ## Stamp
 
-[Download SVG](stamp.svg)
+![Stamp](stamp-preview.png)
 
-![stamp](stamp-preview.png)
-
-The gray preview background is for visibility and is not part of the SVG. Historical artwork may require corrections before manufacturing. A null reviewer means final approval could not be established.
+[Download](stamp.svg?raw=true)

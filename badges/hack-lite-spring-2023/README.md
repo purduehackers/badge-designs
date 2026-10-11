@@ -1,15 +1,11 @@
-# Hack Lite — 2023
+# Hack Lite 2023
 
-CMS event: `95` · slug `hack-lite-spring-2023`.
+## Badge
 
-Only a repeated cutting layout was recovered. It is preserved as cutting-sheet.svg; an individual badge has not been selected.
+![Badge cutting sheet](cutting-sheet-preview.png)
 
-A separate stamp was not identified.
+[Download](cutting-sheet.svg?raw=true)
 
-## Cutting sheet
+## Stamp
 
-[Download SVG](cutting-sheet.svg)
-
-![cutting sheet](cutting-sheet-preview.png)
-
-The gray preview background is for visibility and is not part of the SVG. Historical artwork may require corrections before manufacturing. A null reviewer means final approval could not be established.
+Not available.

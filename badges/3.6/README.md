@@ -1,33 +1,23 @@
 # Hack Night 3.6
 
-CMS event: `138` · slug `3.6`.
+## Badge
 
-Multiple designs or inversions survive. They are preserved under variants/; a single final badge has not been designated.
+![Badge variant](variants/badge-1-preview.png)
 
-A separate stamp was not identified.
+[Download](variants/badge-1.svg?raw=true)
 
-## Variant: badge 1
+![Badge variant](variants/badge-2-preview.png)
 
-[Download SVG](variants/badge-1.svg)
+[Download](variants/badge-2.svg?raw=true)
 
-![Variant: badge 1](variants/badge-1-preview.png)
+![Badge variant](variants/badge-3-preview.png)
 
-## Variant: badge 2
+[Download](variants/badge-3.svg?raw=true)
 
-[Download SVG](variants/badge-2.svg)
+![Badge variant](variants/badge-4-preview.png)
 
-![Variant: badge 2](variants/badge-2-preview.png)
+[Download](variants/badge-4.svg?raw=true)
 
-## Variant: badge 3
+## Stamp
 
-[Download SVG](variants/badge-3.svg)
-
-![Variant: badge 3](variants/badge-3-preview.png)
-
-## Variant: badge 4
-
-[Download SVG](variants/badge-4.svg)
-
-![Variant: badge 4](variants/badge-4-preview.png)
-
-The gray preview background is for visibility and is not part of the SVG. Historical artwork may require corrections before manufacturing. A null reviewer means final approval could not be established.
+Not available.

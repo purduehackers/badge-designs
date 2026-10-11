@@ -1,13 +1,11 @@
 # Hack Night 2.0
 
-CMS event: `92` · slug `2.0`.
-
-A separate stamp was not identified.
-
 ## Badge
 
-[Download SVG](badge.svg)
+![Badge](badge-preview.png)
 
-![badge](badge-preview.png)
+[Download](badge.svg?raw=true)
 
-The gray preview background is for visibility and is not part of the SVG. Historical artwork may require corrections before manufacturing. A null reviewer means final approval could not be established.
+## Stamp
+
+Not available.

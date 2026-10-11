@@ -1,25 +1,17 @@
 # Hack Night 5.25
 
-CMS event: `74` · slug `5.25`.
-
-The coin has two faces, preserved as badge.svg and badge-back.svg, plus a separate stamp.
-
 ## Badge
 
-[Download SVG](badge.svg)
+![Badge](badge-preview.png)
 
-![badge](badge-preview.png)
+[Download](badge.svg?raw=true)
+
+![Badge back](badge-back-preview.png)
+
+[Download](badge-back.svg?raw=true)
 
 ## Stamp
 
-[Download SVG](stamp.svg)
+![Stamp](stamp-preview.png)
 
-![stamp](stamp-preview.png)
-
-## Badge back
-
-[Download SVG](badge-back.svg)
-
-![badge back](badge-back-preview.png)
-
-The gray preview background is for visibility and is not part of the SVG. Historical artwork may require corrections before manufacturing. A null reviewer means final approval could not be established.
+[Download](stamp.svg?raw=true)

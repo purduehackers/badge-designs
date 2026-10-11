@@ -1,15 +1,11 @@
 # Hack Night 2.1
 
-CMS event: `32` · slug `2.1`.
+## Badge
 
-The available sheet contains several design variants. The final selection is unconfirmed; the whole set is preserved under variants/.
+![Badge variant](variants/badge-sheet-preview.png)
 
-A separate stamp was not identified.
+[Download](variants/badge-sheet.svg?raw=true)
 
-## Variant: badge sheet
+## Stamp
 
-[Download SVG](variants/badge-sheet.svg)
-
-![Variant: badge sheet](variants/badge-sheet-preview.png)
-
-The gray preview background is for visibility and is not part of the SVG. Historical artwork may require corrections before manufacturing. A null reviewer means final approval could not be established.
+Not available.

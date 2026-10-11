@@ -1,19 +1,13 @@
 # Hack Night 7.2
 
-CMS event: `211` · slug `7.2`.
-
-The inverted bird and egg are the pair identified for cutting in the source discussion.
-
 ## Badge
 
-[Download SVG](badge.svg)
+![Badge](badge-preview.png)
 
-![badge](badge-preview.png)
+[Download](badge.svg?raw=true)
 
 ## Stamp
 
-[Download SVG](stamp.svg)
+![Stamp](stamp-preview.png)
 
-![stamp](stamp-preview.png)
-
-The gray preview background is for visibility and is not part of the SVG. Historical artwork may require corrections before manufacturing. A null reviewer means final approval could not be established.
+[Download](stamp.svg?raw=true)

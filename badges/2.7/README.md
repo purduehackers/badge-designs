@@ -1,13 +1,11 @@
-# Hack Night 2.7: The Finale
-
-CMS event: `63` · slug `2.7-the-finale`.
-
-A separate stamp was not identified.
+# Hack Night 2.7
 
 ## Badge
 
-[Download SVG](badge.svg)
+![Badge](badge-preview.png)
 
-![badge](badge-preview.png)
+[Download](badge.svg?raw=true)
 
-The gray preview background is for visibility and is not part of the SVG. Historical artwork may require corrections before manufacturing. A null reviewer means final approval could not be established.
+## Stamp
+
+Not available.
