@@ -1,0 +1,14 @@
+{
+  "cms": {
+    "id": "42",
+    "slug": "5.12"
+  },
+  "author": {
+    "id": null,
+    "username": null
+  },
+  "reviewer": {
+    "id": null,
+    "username": null
+  }
+}
